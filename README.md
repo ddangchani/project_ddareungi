@@ -5,22 +5,34 @@
 프로젝트는 다음과 같은 순서로 진행됩니다.
 ### 1. EDA
 - Explanatory Data Analysis & Visualization
+- [Velog Link](https://velog.io/@ddangchani/따릉이-데이터-분석하기-1-EDA) ✅
 
 ### 2. Linear Regression
 - Ordinary Least Square
 - Model(Variable) Selection
+- [Velog Link](https://velog.io/@ddangchani/따릉이-데이터-분석하기-2-Linear-Regression) ✅
 
-### 3. Modified Linear Regression 
-- Shrinkage Methods(Ridge, Lasso, ElasticNet, LAR)
-- PCR(Principal Component Regression)
-- GAM(B-spline Linear Regression)
+### 3. Shrinkage Linear Methods
+- Lasso/Ridge
+- Elastic-Net
+- Least Angle Regression
+- [Velog Link](https://velog.io/@ddangchani/따릉이-데이터-분석하기-3-Shrinkage-Methods) ✅
 
-### 4. Tree
+### 4. Linear Transformation
+- Principal Component Analysis
+- Principal Component Regression
+- Partial Least Sqaures
+- [Velog Link]()
+
+### 5. Tree
 - Regression Tree
 - Random Forest Regressor
+- [Velog Link]()
 
-### 5. Support Vector Machine
+### 6. Support Vector Machine
 - Support Vector Regressor
+- [Velog Link]()
 
-### 6. Neural Network
+### 7. Neural Network
 - Using Tensorflow and Keras
+- [Velog Link]()
