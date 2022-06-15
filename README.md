@@ -28,5 +28,5 @@
 ### 6. Support Vector Machine
 - Support Vector Regressor
 
-### 7. Neural Network
-- Using Tensorflow and Keras
+### 7. AutoML
+- Using PyCaret
